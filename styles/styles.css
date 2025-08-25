@@ -67,7 +67,7 @@ header {
 }
 
 .hero::before{
-    background-image: url(../img/gaming_setup.jpg);
+    background-image: url(../img/gaming_pc.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;   
@@ -350,4 +350,5 @@ span {
 .brand_logo:nth-child(20) {
     animation-delay: 9.5s;
 }
+
 
